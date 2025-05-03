@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "vue"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue js"
+	}
+}
